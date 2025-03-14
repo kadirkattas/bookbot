@@ -21,3 +21,4 @@ def sort_chars_counts_list(char_counts):
 
 
     return sorted(char_counts_list, reverse=True, key=sort_on)
+# Comment for git test
